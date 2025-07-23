@@ -1,0 +1,2 @@
+x="khusi"
+print(x)
